@@ -1,4 +1,4 @@
-package com.tns.test;
+package session;
 
 public class Test {
 
