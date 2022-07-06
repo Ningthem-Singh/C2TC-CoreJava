@@ -1,4 +1,4 @@
-package com.tns.Ningthem;
+package com.tns.session;
 
 import java.util.Scanner;
 
