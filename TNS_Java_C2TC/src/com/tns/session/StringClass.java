@@ -1,9 +1,10 @@
+//implementation of various String class methods
 package com.tns.session;
-//implementation of various string cases
+
 public class StringClass {
 
-	public static void main(java.lang.String[] args) {
-		java.lang.String s="    Ningthem    ";// mutable object
+	public static void main(String[] args) {
+		String s="    Ningthem    ";// mutable object
 		
 		System.out.println(s.concat("Singh")); //Concatenation means combining
 		
@@ -14,7 +15,7 @@ public class StringClass {
 		
 		System.out.println(s.toUpperCase()); //change to uppercase
 		
-		java.lang.String s1="Guwahati";	//string with an object s1 having value Guwahati
+		String s1="Guwahati";	//string with an object s1 having value Guwahati
 		System.out.println(s1.equals("guwahati"));	//s1 is equal to or not to the string given 
 		
 		System.out.println(s1.equalsIgnoreCase("GUWAHATI"));	//s1 is equal to or not to the string given and ignoring cases
@@ -32,7 +33,7 @@ public class StringClass {
 		
 		System.out.println("-----------------------------------------");
 		
-		java.lang.String a="Avantika ";
+		String a="Avantika ";
 
 		int b=10,c=20,d=30;
 	

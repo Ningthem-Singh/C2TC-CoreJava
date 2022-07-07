@@ -1,6 +1,6 @@
 package com.tns.session;
 
-public class StringBufferingDemo {
+public class StringBufferDemo {
 
 	public static void main(String[] args) {
 		

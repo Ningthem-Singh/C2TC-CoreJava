@@ -1,6 +1,5 @@
-package com.tns.session;
-
 // concept of Single inheritance
+package com.tns.session;
   
 // base class
 class Bicycle {
@@ -65,7 +64,7 @@ class MountainBike extends Bicycle {
 }
   
 // driver class
-public class Test {
+public class Inheritance {
     public static void main(String args[])
     {
   
