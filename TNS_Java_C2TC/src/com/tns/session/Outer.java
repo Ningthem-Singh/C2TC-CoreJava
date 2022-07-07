@@ -1,5 +1,6 @@
-package com.tns.session;
 //implementation of Outer
+package com.tns.session;
+
 public class Outer{
 		int x=10;
 		static int y=200;

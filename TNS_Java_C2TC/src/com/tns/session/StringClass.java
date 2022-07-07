@@ -20,8 +20,8 @@ public class StringClass {
 		
 		System.out.println(s1.equalsIgnoreCase("GUWAHATI"));	//s1 is equal to or not to the string given and ignoring cases
 		
-		System.out.println(s1.replace('A', 'Z'));	// replacing the letter but since there are 
-													//no uppercase A so it ignores and gives the s1 string 
+		System.out.println(s1.replace('A', 'Z'));	/*replacing the letter but since there are 
+													no uppercase A so it ignores and gives the s1 string*/ 
 		
 		System.out.println(s1.replace('a', 'z'));	//replacing the letter a to z 
 		
@@ -40,8 +40,8 @@ public class StringClass {
 		
 		System.out.println(a+b+c+d);//Avantika102030 -------as it starts with a string and it concatenates b,c,d
 		
-		System.out.println(b+c+d+a);//60Avantika -----as it starts with an integer so 
-													//it adds all the integer and concatenates with the string
+		System.out.println(b+c+d+a);/*60Avantika -----as it starts with an integer so 
+													it adds all the integer and concatenates with the string*/
 		
 		System.out.println(b+c+a+d);//30Avantika30
 		

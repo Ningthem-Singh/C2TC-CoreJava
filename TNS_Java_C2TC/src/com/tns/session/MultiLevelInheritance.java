@@ -1,5 +1,5 @@
+// concept of Multiple Inheritance
 package com.tns.session;
-
 
 class Car{							//parent class is car
 		public void wholecar() {	
@@ -25,5 +25,4 @@ public class MultiLevelInheritance {
 	trans.rrrr();
 	trans.upshift();
 	}
-
 }

@@ -1,6 +1,5 @@
-package com.tns.session;
 //static variable concept
-
+package com.tns.session;
 
 public class StaticVariableDemo 
 

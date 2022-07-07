@@ -1,3 +1,4 @@
+//implementation of StringBuffer class
 package com.tns.session;
 
 public class StringBufferDemo {

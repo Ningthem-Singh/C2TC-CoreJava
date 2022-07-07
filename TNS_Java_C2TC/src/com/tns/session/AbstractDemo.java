@@ -1,3 +1,4 @@
+//implementation of Abstract Class
 package com.tns.session;
 
 public class AbstractDemo {
