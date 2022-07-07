@@ -1,3 +1,4 @@
+//implementation of multidimensional array
 package com.tns.session;
 
 public class Array2 {

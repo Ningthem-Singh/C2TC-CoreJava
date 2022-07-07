@@ -1,16 +1,16 @@
+//implementation of Constructor
 package com.tns.session;
 
 public class Constructor {
 
-		// TODO Auto-generated method stub
 		int roll;
-		java.lang.String name;
-		java.lang.String college;
+		String name;
+		String college;
 
-		public Constructor(int roll, java.lang.String string, java.lang.String string2) {
+		public Constructor(int roll, String string1, String string2) {
 			super();
 			this.roll = roll;
-			this.name = string;
+			this.name = string1;
 			this.college = string2;
 		}
 
@@ -24,5 +24,4 @@ public class Constructor {
 			s1.display();
 			s2.display();
 	}
-
 }

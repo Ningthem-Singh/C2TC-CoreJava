@@ -5,7 +5,7 @@ public class AbstractDemo {
 
 	public static void main(String[] args) {
 		Scooty Wego=new Scooty();	
-									/*we are using child class AKA scooty  
+									/* we are using child class AKA scooty  
 									and not parent class AKA Vehicle as parent class cannot be abstract  
 									as abstract don't allow objects to be created.*/ 
 		Wego.NoOfWheels();
