@@ -22,7 +22,7 @@ public class FinalDemoMethod {
 	 }
 	 class C extends P
 	 {	//cannot override final method
-	 	void marry()			//method overriding
+//	 	void marry()			//method overriding
 	 	{
 	 		System.out.println("Katrina");
 	 	}

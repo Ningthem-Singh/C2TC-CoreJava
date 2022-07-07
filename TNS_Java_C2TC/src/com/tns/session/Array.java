@@ -1,6 +1,6 @@
 package com.tns.session;
-
-public class Array {
+//Implementation of array
+public class Array { 
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

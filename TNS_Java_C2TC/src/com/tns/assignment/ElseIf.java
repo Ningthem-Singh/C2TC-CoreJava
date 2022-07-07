@@ -1,6 +1,6 @@
 package com.tns.assignment;
 
-public class ElseIF {
+public class ElseIf {
 
 	public static void main(String[] args) {
 		// else if

@@ -1,6 +1,6 @@
 package com.tns.assignment;
 
-public class primitive_datatype {
+public class PrimitiveDatatype {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

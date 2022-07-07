@@ -4,14 +4,14 @@ public class Constructor {
 
 		// TODO Auto-generated method stub
 		int roll;
-		String name;
-		String college;
+		java.lang.String name;
+		java.lang.String college;
 
-		public Constructor(int roll, String name, String college) {
+		public Constructor(int roll, java.lang.String string, java.lang.String string2) {
 			super();
 			this.roll = roll;
-			this.name = name;
-			this.college = college;
+			this.name = string;
+			this.college = string2;
 		}
 
 		void display()

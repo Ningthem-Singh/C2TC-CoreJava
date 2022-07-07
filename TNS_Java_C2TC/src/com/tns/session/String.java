@@ -1,5 +1,5 @@
 package com.tns.session;
-
+//implementation of various string cases
 public class String {
 
 	public static void main(java.lang.String[] args) {
