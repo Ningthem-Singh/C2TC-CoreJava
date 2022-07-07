@@ -1,6 +1,6 @@
 package com.tns.session;
 //implementation of various string cases
-public class String {
+public class StringClass {
 
 	public static void main(java.lang.String[] args) {
 		java.lang.String s="    Ningthem    ";// mutable object

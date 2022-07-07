@@ -12,7 +12,6 @@ public class FinalDemo {
 					//and so u cant alter the value of a 
 			System.out.println(a);
 			//either change the variable to a different variable name or remove the final keyword 
-
 			}
 
 	}
