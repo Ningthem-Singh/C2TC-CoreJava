@@ -14,5 +14,8 @@ public class ArrayCompare {
 		        // To compare both arrays
 		        System.out.println("Integer Arrays on comparison: "
 		                           + Arrays.compare(intArr1, intArr2));
+		        
+		        System.out.println("----------------------");
+		        
 		    }
 		}
