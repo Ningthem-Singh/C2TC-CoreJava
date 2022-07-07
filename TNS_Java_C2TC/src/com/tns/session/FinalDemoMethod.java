@@ -3,10 +3,9 @@ package com.tns.session;
 public class FinalDemoMethod {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 	}
-	 class P
+	 class Parent
 	 {
 	 	void property()
 	 	{
@@ -20,9 +19,9 @@ public class FinalDemoMethod {
 	 	
 	 	
 	 }
-	 class C extends P
+	 class Child extends Parent
 	 {	//cannot override final method
-//	 	void marry()			//method overriding
+		 void marry()			//method overriding
 	 	{
 	 		System.out.println("Katrina");
 	 	}

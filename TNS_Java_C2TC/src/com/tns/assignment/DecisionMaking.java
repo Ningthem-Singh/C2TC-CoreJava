@@ -1,3 +1,4 @@
+//implementation of DecionMaking using IfElse
 package com.tns.assignment;
 
 import java.util.Scanner;
@@ -15,6 +16,7 @@ public class DecisionMaking {
 		else
 			System.out.println("Value of x is 5");
 
+		System.out.println("------------------");
 		// second Case
 		int a = 8, b = 7;
 

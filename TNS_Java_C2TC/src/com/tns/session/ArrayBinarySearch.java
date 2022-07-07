@@ -2,7 +2,7 @@
 package com.tns.session;
 
 import java.util.Arrays;
-public class BinarySearch {
+public class ArrayBinarySearch {
 
 	public static void main(String[] args) {
 

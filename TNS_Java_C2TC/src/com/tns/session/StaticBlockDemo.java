@@ -1,6 +1,6 @@
+//implementation of static block usage
 package com.tns.session;
 
-//static block usage
 public class StaticBlockDemo {
 
 	public static void main(String[] args) //main block
@@ -12,7 +12,7 @@ public class StaticBlockDemo {
 	{
 		System.out.println("Jai Hind");
 	}
-	static 			//static blocks
+	static 			//static blocks--------starts from here
 	{
 		System.out.println(80+20);
 		m();
