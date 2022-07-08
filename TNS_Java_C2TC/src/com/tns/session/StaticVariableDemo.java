@@ -1,4 +1,4 @@
-//static variable concept
+//implementation of static variable concept
 package com.tns.session;
 
 public class StaticVariableDemo 
