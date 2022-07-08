@@ -18,7 +18,7 @@ public class StaticVariableDemo
 		coll="Mumbai University";
 	}
 
-	public StaticVariableDemo(String name, int roll) {
+	public StaticVariableDemo(String name, int roll) {	//constructor
 		super();
 		this.name=name;
 		this.roll=roll;
