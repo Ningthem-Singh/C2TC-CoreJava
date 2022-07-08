@@ -1,4 +1,4 @@
-//implementation of EvenOrOdd
+//implementation of EvenOrOdd using IfElse flow control
 package com.tns.session;
 
 import java.util.Scanner;
