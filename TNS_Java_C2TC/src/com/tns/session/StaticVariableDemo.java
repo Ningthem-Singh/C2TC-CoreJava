@@ -13,7 +13,7 @@ public class StaticVariableDemo
 	{
 		System.out.println(name+" "+roll+" "+coll);
 	}
-	static void modify()
+	static void modify() //can only access static members so coll is only modified
 	{
 		coll="Mumbai University";
 	}
