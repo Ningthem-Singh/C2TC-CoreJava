@@ -11,8 +11,10 @@ public class MultipleCatchBlock {
 			System.out.println(a[10]);
 		} catch (ArithmeticException e) {
 			System.out.println("Arithmetic Exception occurs");
+			// for the arithmetic expression
 		} catch (ArrayIndexOutOfBoundsException e) {
 			System.out.println("ArrayIndexOutOfBounds Exception occurs");
+			// for array out of bound
 		} catch (Exception e) {
 			System.out.println("Parent Exception occurs");
 		}
