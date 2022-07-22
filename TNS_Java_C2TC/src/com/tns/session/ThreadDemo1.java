@@ -16,6 +16,7 @@ class ChildThread extends Thread // thread
 public class ThreadDemo1 {
 
 	public static void main(String[] args) {
+		// create an object for ChildThread class
 		ChildThread t = new ChildThread();
 		t.start();
 
