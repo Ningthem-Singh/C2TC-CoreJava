@@ -4,9 +4,7 @@ package com.tns.session;
 class Counter {
 	int count;
 
-	public void inc()
-
-	{
+	public synchronized void inc() {
 		count++;
 	}
 }
@@ -35,9 +33,12 @@ public class SynchronizedDemo {
 				}
 			}
 		});
+		// calling start and join methods
 		t1.start();
 		t2.start();
 		t1.join();
 		t2.join();
+
+		System.out.println(C.count);
 	}
 }
