@@ -1,28 +1,25 @@
 package com.tns.session;
 
-public class FinalDemoMethod {
-
-	class Parent {
-		void property() {
-			System.out.println("house.....Car......cash.....plots");
-		}
-
-		void marry() {
-			System.out.println("Shakuntala");
-		}
-
+class Parent {
+	void property() {
+		System.out.println("house.....Car......cash.....plots");
 	}
 
-	class Child extends Parent { // cannot override final method
-		void marry() // method overriding
-		{
-			System.out.println("Katrina");
-		}
+	void marry() {
+		System.out.println("Shakuntala");
+	}
 
+}
+
+class FinalDemoMethod extends Parent { // cannot override final method
+	void marry() // method overriding
+	{
+		System.out.println("Katrina");
 	}
 
 	public static void main(String[] args) {
-		Child obj = new Child();
+		FinalDemoMethod obj = new FinalDemoMethod();
 		obj.marry();
+		obj.property();
 	}
 }
