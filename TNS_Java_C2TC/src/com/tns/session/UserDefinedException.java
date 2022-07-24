@@ -23,7 +23,7 @@ public class UserDefinedException {
 	static class CantVote extends RuntimeException // unchecked Exception
 	{
 
-		public CantVote(String msg) // print stack trace method
+		public CantVote(String msg) // print stack trace method.
 		{
 			super(msg);
 
